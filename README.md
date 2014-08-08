@@ -24,6 +24,7 @@ Table of contents:
 * [Laravel Enovy](https://github.com/laravel/envoy) Elegant SSH Tasks For PHP.
 * [Laravel 4 Generators](https://github.com/JeffreyWay/Laravel-4-Generators) Rapidly speed up your Laravel 4 workflow with generators.
 * [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper) Laravel IDE Helper.
+* [Laravel Dispatcher](https://github.com/indatus/dispatcher) Dispatcher is a Laravel artisan command scheduling tool used to schedule artisan commands within your project so you don't need to touch your crontab when deploying.
 
 
 ## Development
@@ -32,6 +33,7 @@ Table of contents:
 
 ## Distribution
 * [Laravel HTML Minify](https://github.com/fitztrev/laravel-html-minify) Minifies the HTML output.
+* [Laravel Laroute](https://github.com/aaronlord/laroute) Render laravel routes in javascript
 
 ## Internationalization
 * [Laravel Countries](https://github.com/webpatser/laravel-countries) Laravel Countries is a bundle for Laravel, providing Almost ISO 3166_2, 3166_3, currency, Capital and more for all countries.
@@ -65,3 +67,4 @@ Table of contents:
 
 ## Validation
 * [Laravel Model Validation](https://github.com/JeffreyWay/Laravel-Model-Validation) This Laravel package auto-validates a model on save.
+* [Laravel Ardent](https://github.com/laravelbook/ardent) Self-validating smart models for Laravel Framework 4's Eloquent ORM.
