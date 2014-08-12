@@ -15,6 +15,7 @@ Table of contents:
 * [Validation](#validation)
 
 ## Assets Management
+* [Laravel Asset Pipeline](https://github.com/CodeSleeve/asset-pipeline) Asset manager, built to mirror Rails asset pipeline and sprockets.
 * [Laravel Guard](https://github.com/JeffreyWay/Laravel-Guard) Instant asset compilation, concatenation, and minification for Laravel 4.
 * [Laravel Packer](https://github.com/eusonlito/laravel-Packer) A package for pack css and javascript files.
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) Stapler-based file upload package.
@@ -27,6 +28,7 @@ Table of contents:
 
 
 ## Development
+* [Laravel Clockwork](https://github.com/itsgoingd/clockwork) Laravel 4 Debuggar integrated into Clockwork Chrome Extension.
 * [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar) Laravel 4 Debugbar (Integrates PHP Debug Bar).
 * [Laravel Test Helpers](https://github.com/JeffreyWay/Laravel-Test-Helpers) Easier testing in Laravel.
 
