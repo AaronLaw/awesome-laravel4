@@ -32,6 +32,7 @@ Table of contents:
 * [Laravel Clockwork](https://github.com/itsgoingd/clockwork) Laravel 4 Debuggar integrated into Clockwork Chrome Extension.
 * [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar) Laravel 4 Debugbar (Integrates PHP Debug Bar).
 * [Laravel Test Helpers](https://github.com/JeffreyWay/Laravel-Test-Helpers) Easier testing in Laravel.
+* [Laravel Visual Log Viewer](https://github.com/mikemand/logviewer) Visual paginatied, sorted log viewer and manager.
 
 ## Distribution
 * [Laravel HTML Minify](https://github.com/fitztrev/laravel-html-minify) Minifies the HTML output.
